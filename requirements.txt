@@ -2,8 +2,7 @@ ipywidgets
 numpy
 pandas
 matplotlib
-plotly.express
-plotly.graph_objects
+plotly
 seaborn
 ipywidgets
 folium
